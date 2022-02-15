@@ -1,10 +1,15 @@
 5 x technical resources
 
 https://www.programmableweb.com/category/augmented-reality/api
+
 https://github.com/public-apis/public-apis
+
 https://developers.google.com/ar
+
 https://developer.apple.com/augmented-reality/
+
 https://www.pyimagesearch.com/2021/01/04/opencv-augmented-reality-ar/
+
 https://www.youtube.com/watch?v=Gz0vJRaz2l4
 
 5 x artistic/design/aesthetic resources
