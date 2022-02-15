@@ -28,7 +28,7 @@ Technical resources:
 - https://www.youtube.com/watch?v=_XiUSCkxa8U&list=PLMoSUbG1Q_r-JNMQ0zJmv6SnXwgbA8JJp&index=2
 - https://www.youtube.com/watch?v=Gz0vJRaz2l4&list=PLMoSUbG1Q_r-JNMQ0zJmv6SnXwgbA8JJp&index=3
 
-5 x technical resources
+5 x technical resources (sarah)
 
 https://www.programmableweb.com/category/augmented-reality/api
 
@@ -42,7 +42,7 @@ https://www.pyimagesearch.com/2021/01/04/opencv-augmented-reality-ar/
 
 https://www.youtube.com/watch?v=Gz0vJRaz2l4
 
-5 x artistic/design/aesthetic resources
+5 x artistic/design/aesthetic resources (sarah)
 
 ![Digital-Art](https://user-images.githubusercontent.com/90471566/154134673-b040b93e-233b-40a3-af28-8b8a03cf4aa0.jpg)
 
