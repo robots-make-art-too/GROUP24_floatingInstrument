@@ -1,11 +1,3 @@
-# 10 Resources 
-
-- can be links
-- can be books
-- can be code
-- can be existing works
-- can be people, places, things that inspire you, things you hate, things you love etc.
-
 5 x technical resources
 
 1. https://www.programmableweb.com/category/augmented-reality/api
