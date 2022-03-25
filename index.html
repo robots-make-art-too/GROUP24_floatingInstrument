@@ -17,13 +17,13 @@
 
 			<a-scene>
 				<a-assets>
-				  <a-asset-item id="obj-1" src="obj1.obj"></a-asset-item>
+				  <a-asset-item id="obj-gltf" src="obj1.gltf"></a-asset-item>
 				  <!-- <a-asset-item id="tree-mtl" src="/path/to/tree.mtl"></a-asset-item> -->
 				</a-assets>
 
 				<a-marker id="kanji-1" preset="kanji">
 					<!-- <a-entity obj-model="obj: #tree-obj; mtl: #tree-mtl"></a-entity> -->
-					<a-entity obj-model="obj: #obj-1;"></a-entity>
+					<a-entity gltf-model="#obj-gltf"></a-entity>
 				</a-marker>
 
 				<!-- <a-marker id="hiro-1" preset="hiro">
