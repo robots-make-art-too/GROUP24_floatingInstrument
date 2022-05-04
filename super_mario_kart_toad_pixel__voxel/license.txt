@@ -1,0 +1,8 @@
+Model Information:
+* title:	Super Mario Kart: Toad Pixel / Voxel
+* source:	https://sketchfab.com/3d-models/super-mario-kart-toad-pixel-voxel-c00a0a003bfe4a589ddc2a36e5c469e0
+* author:	Código Píxel (https://sketchfab.com/codigopixel)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest

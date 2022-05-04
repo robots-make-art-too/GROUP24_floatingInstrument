@@ -1,0 +1,8 @@
+Model Information:
+* title:	Super Mario Kart: Mario Pixel / Voxel
+* source:	https://sketchfab.com/3d-models/super-mario-kart-mario-pixel-voxel-01ad964e96c4432eba29f29e19a49ab2
+* author:	Código Píxel (https://sketchfab.com/codigopixel)
+
+Model License:
+* license type:	SKETCHFAB Editorial (https://sketchfab.com/licenses)
+* requirements:	Use only in connection with events that are newsworthy or of public interest
