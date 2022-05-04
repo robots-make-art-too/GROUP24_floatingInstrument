@@ -11,6 +11,7 @@ body {
 
 div {
 	border:1px solid #5f0834;
+	border-radius:20px;
     margin: 90px;
 }
 
