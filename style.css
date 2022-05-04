@@ -50,92 +50,10 @@ a:visited {
 color:#5f0834;
 }
 
-.img1 {
+.img {
 float: left;
+max-width: 100%;
 }
-
-.img2 {
-float: left; 
-}
-
-.img3 {
-float: left; 
-}
-
-.img4 {
-float: left; 
-}
-
-.img5 {
-float: left; 
-}
-
-.img6 {
-float: left; 
-}
-
-.img7 {
-float: left; 
-}
-
-.img8 {
-float: left; 
-}
-
-.img9 {
-float: left; 
-}
-
-.img10 {
-float: left; 
-}
-
-.img11 {
-float: left; 
-}
-
-.img12 {
-float: left; 
-}
-
-.img13 {
-float: left; 
-}
-
-.img14 {
-float: left; 
-}
-
-.img15 {
-float: left; 
-}
-
-.img16 {
-float: left; 
-}
-
-.img17 {
-float: left; 
-}
-
-.img18 {
-float: left; 
-}
-
-.img19 {
-float: left; 
-}
-
-.img20 {
-float: left; 
-}
-
-.img21 {
-float: left; 
-}
-
-
-
 
 div[id^='ex_']{
 	display:none;
@@ -148,9 +66,7 @@ div[id^='ex_']{
 	 font-size:1.5em;
   }
 
-@media screen and (min-width:600px) {
-  [class*="column"] {
-    width:50%;
+  @media only screen
+  and (max-width : 320px) {
+  /* Styles */
   }
-  
-}
