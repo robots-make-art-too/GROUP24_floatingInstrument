@@ -68,6 +68,6 @@ div[id^='ex_']{
 
   @media only screen
 and (min-device-width : 320px)
-and (max-device-width : 480px) {
+and (max-device-width : 400px) {
 	/* Styles */
 }
