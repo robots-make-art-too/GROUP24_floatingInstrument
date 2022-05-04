@@ -67,6 +67,7 @@ div[id^='ex_']{
   }
 
   @media only screen
-  and (max-width : 1000px) {
-  /* Styles */
-  }
+and (min-device-width : 320px)
+and (max-device-width : 480px) {
+	/* Styles */
+}
