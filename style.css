@@ -67,6 +67,6 @@ div[id^='ex_']{
   }
 
   @media only screen
-  and (max-width : 800px) {
+  and (max-width : 1000px) {
   /* Styles */
   }
