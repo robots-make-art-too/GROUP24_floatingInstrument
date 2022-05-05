@@ -6,5 +6,5 @@ Welcome to our page, where our group "Floating instruments" aims to have an AR o
 [link to AR](index-AR.html)
 
 
-landing page (index.html)
-AR content (index-AR.html)
+landing page [link to landing page](index.html)
+AR content [link to AR](index-AR.html)
